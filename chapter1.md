@@ -1,4 +1,4 @@
-程序下载
+345实打实程序下载
 
 1.硬件配置｛
 
@@ -20,7 +20,13 @@ Options-&gt;project settings
 
 File-&gt;open data file，打开hex固件
 
-按Target
+Target-&gt;{
+
+F5:下载
+
+F7：单片机复位
+
+}
 
 ｝
 
